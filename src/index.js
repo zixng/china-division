@@ -1,0 +1,1 @@
+const division = require('china-division')
